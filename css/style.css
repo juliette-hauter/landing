@@ -1,0 +1,29 @@
+@import url("https://fonts.googleapis.com/css2?family=Noto+Serif&family=Oswald&display=swap");
+
+@import url("components/container.css");
+
+@import url("components/button.css");
+
+@import url("components/banner.css");
+
+@import url("components/card.css");
+
+body {
+	font-family: 'Oswald', sans-serif;
+	font-size:16px;
+}
+
+h1, h2, h3 {
+	font-family: 'Noto', serif;
+	font-weight: bold;
+	text-align: center;
+}
+
+a {
+	text-decoration: none;
+}
+
+#shop-now {
+	font-size: 50px;
+	color: #black
+}
